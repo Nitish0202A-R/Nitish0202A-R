@@ -72,8 +72,10 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitish0202a-r&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitish0202a-r&show_icons=true&theme=radical&hide_border=false&rank_icon=github&include_all_commits=true" alt="Nitish's GitHub Stats" />
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish0202a-r&layout=compact&theme=radical" alt="Top Languages" />
