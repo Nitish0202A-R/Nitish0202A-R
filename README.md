@@ -9,6 +9,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&center=true&vCenter=true&width=260&lines=Full+Stack+Web+Developer;Coding+%26+UI%2FUX+Enthusiast;JavaScript+%7C+React+%7C+Node.js" alt="Typing SVG" />
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nitish0202a-r&label=Profile%20views&color=0e75b6&style=flat" alt="nitish0202a-r" />
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="terminal typing" width="400" />
