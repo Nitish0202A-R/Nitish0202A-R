@@ -7,6 +7,9 @@
 ## <p align="center">🔥 Full Stack Developer &nbsp;|&nbsp; 🟥 JavaScript Wizard &nbsp;|&nbsp; 🧠 UI/UX Enthusiast 🔥</p>
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitish0202a-r&label=Profile%20views&color=ff0000&style=flat" alt="GitHub Profile Views" />
+</p>
 
 <!-- Terminal GIF -->
 ## 🧠 Coding Mode (Red & Black)
