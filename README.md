@@ -15,13 +15,27 @@
 
 ---
 
-<h2 align="center">🛠️ Skills</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,java,python,mysql,git&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <th align="left">🎨 Frontend</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br>
+     
+  <tr>
+    <th align="left">☁️ Tools & Database</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,mysql,vscode&theme=dark" /><br>
+      
+  <tr>
+    <th align="left">💻 Programming Languages</th>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,java,python&theme=dark" /><br>
+   
+  
+</table>
 
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 
