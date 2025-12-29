@@ -25,20 +25,25 @@
   <tr>
     <th align="left">🎨 Frontend</th>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br>
-     
+      <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" /><br>
+    </td>
+  </tr>
+
   <tr>
     <th align="left">☁️ Tools & Database</th>
     <td>
       <img src="https://skillicons.dev/icons?i=git,mysql,vscode&theme=dark" /><br>
-      
+    </td>
+  </tr>
+
   <tr>
     <th align="left">💻 Programming Languages</th>
     <td>
       <img src="https://skillicons.dev/icons?i=c,java,python&theme=dark" /><br>
-   
-  
+    </td>
+  </tr>
 </table>
+
 
 
 <h2 align="center">📊 GitHub Stats</h2>
