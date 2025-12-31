@@ -16,9 +16,6 @@
   🔹 Passionate about <b>creating responsive and user-friendly web designs</b><br>
   🔹 Love to code and explore new technologies
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitish0202a-r&label=Profile%20Views&color=red&style=flat" />
-</p>
 
 ---
 
