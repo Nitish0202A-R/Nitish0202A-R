@@ -88,6 +88,57 @@
 
 ---
 
+<h2 align="center">🚀 My Data Analytics Projects</h2>
+
+<h3>📌 Customer Churn Analysis | Python</h3>
+
+<ul>
+  <li>Analyzed behavior of <b>7,043 telecom customers</b> to identify churn patterns based on tenure, contract type, and monthly charges.</li>
+  <li>Engineered new features including contract type buckets and tenure bands to improve customer segmentation and insights.</li>
+  <li>Generated <b>11 visualizations</b> including histograms, box plots, and heatmaps to highlight churn-prone segments.</li>
+  <li>Revealed that <b>38% of churned users</b> were on monthly contracts with less than 3-month tenure, suggesting early engagement strategies.</li>
+</ul>
+
+<h3>📱 Mobile Sales Dashboard | Power BI, DAX</h3>
+
+<ul>
+  <li>Built an interactive Power BI dashboard to analyze mobile sales by brand, model, city, and month.</li>
+  <li>Created DAX measures and KPIs to track sales, transactions, quantity, and performance.</li>
+  <li>Used slicers, charts, maps, and tables for dynamic sales analysis and reporting.</li>
+  <li>Identified top-performing products, sales trends, ratings, and payment preferences.</li>
+</ul>
+
+<h3>📊 Sales Dashboard for Regional Performance | SQL, Power BI</h3>
+
+<ul>
+  <li>Queried and joined <b>3 sales-related tables</b> covering over <b>25,000 rows</b> across 12 months and 5 regions using optimized SQL joins.</li>
+  <li>Built <b>10 dynamic measures and KPIs</b> in Power BI to track regional sales, return trends, and product performance.</li>
+  <li>Designed multipage dashboards with slicers and filters for region, product category, and time.</li>
+  <li>Detected a <b>14% sales drop post-festival in the South region</b>, providing an insight for a potential marketing recovery plan.</li>
+</ul>
+
+---
+
+<h2 align="center">🏆 Certifications & Achievements</h2>
+
+<p align="center">
+
+🏅 <b>Google Analytics Certification – 2026</b> | Google<br><br>
+
+🏆 <b>Top 5% in SQL HackerRank Challenge – 2026</b> | Ranked Top 150 / 3,000+ Participants<br><br>
+
+🤖 <b>Physics Wallah: Data Analytics with AI – 2026</b> | Certificate provided by Microsoft<br><br>
+
+🐍 <b>Python – 30 Days Micro Course – 2026</b> | SkillCourse<br><br>
+
+🗄️ <b>SQL – 30 Days Micro Course – 2026</b> | SkillCourse<br><br>
+
+📊 <b>Top 10% in Excel Skill Course – 2026</b>
+
+</p>
+
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
