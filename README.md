@@ -88,6 +88,25 @@
 
 ---
 
+<h2 align="center">💼 Internship Experience</h2>
+
+<h3>💻 EX-Frontend Developer Intern | Codec Technologies</h3>
+
+<p>
+  <b>Remote</b> | <b>November 2026 – December 2026</b><br>
+  <b>Tools:</b> HTML, CSS, JavaScript, Git, GitHub
+</p>
+
+<ul>
+  <li>Developed <b>responsive and user-friendly web interfaces</b> using HTML, CSS, and JavaScript, ensuring cross-device compatibility.</li>
+  <li>Built <b>interactive UI components and responsive layouts</b> to enhance usability and overall user experience.</li>
+  <li>Identified and resolved <b>frontend bugs and layout issues</b>, improving website performance, functionality, and responsiveness.</li>
+  <li>Applied <b>modern frontend development practices</b> to create clean, structured, and maintainable web pages.</li>
+  <li>Used <b>Git and GitHub</b> for version control, code management, and collaborative project development.</li>
+</ul>
+
+---
+
 <h2 align="center">🚀 My Data Analytics Projects</h2>
 
 <h3>📌 Customer Churn Analysis | Python</h3>
